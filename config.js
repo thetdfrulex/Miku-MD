@@ -7,28 +7,28 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['918101187835']
-global.OwnerNumber = ['918101187835']
-global.ownertag = ['918101187835']
-global.BotName = "Miku"
-global.packname = "Miku bot"
-global.author = "By: Fantox"
-global.OwnerName = "Fantox"
-global.BotSourceCode = "https://github.com/FantoX001/Miku-MD"
-global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"
+global.Owner = ['+919140867024']
+global.OwnerNumber = ['919140767024']
+global.ownertag = ['919140867024']
+global.BotName = "The Prabhat Tripthi Bot"
+global.packname = "Prabhat bot"
+global.author = "By: Prabhat Triptahi"
+global.OwnerName = "Prabhat"
+global.BotSourceCode = "https://wa.me/+919140867024"
+global.SupportGroupLink = "https://wa.me/+919140867024"
 global.sessionName = "session"
 
 
 
-global.prefa = ['-'] // Prefix ---  change it to anythong you want except @//
+global.prefa = ['*'] // Prefix ---  change it to anythong you want except @//
 
 
-global.location = "West Bengal, India"
+global.location = "Kanpur, India"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
-global.websitex = "https://github.com/FantoX001"
-global.lolhuman = "KaysaS"
+global.websitex = "https://wa.me/+919140867024"
+global.lolhuman = "Hoomans hehe"
 
 
 global.BotLogo = fs.readFileSync("./Assets/pic1.jpg")
@@ -58,19 +58,19 @@ global.ntilink = []
 
 
 global.mess = {
-    jobdone: 'Job done...',
-    useradmin: 'Sorry, only *Group Admins* can use this command *Baka*!',
-    botadmin: 'Sorry, i cant execute this command without being an *Admin* of this group.',
-    botowner: 'Only my *Owner* can use this command, Baka!',
-    grouponly: 'This command is only made for *Groups*, Baka!',
-    privateonly: 'This command is only made for *Private Chat*, Baka!',
-    botonly: 'Only the *Bot itself* can use this command!',
-    waiting: 'Chotto Matte...',
-    nolink: 'Please provide me *link*, Baka!',
-    error: 'An error occurd!',
-    banned: 'You are *Banned* fron using commands!',
+    jobdone: 'Hogya vro/vroni apka kaam huehue...',
+    useradmin: 'Sorry, group ka admin jo bana betha hai use bol sirf vahi isko access kr skta hai',
+    botadmin: 'Sorry, admin ko bula uske pass access hai *bot made by prabhat tripathi*',
+    botowner: 'Only the script writer *Prabhat Tripathi* can use this command',
+    grouponly: 'Groups ke lie hai only',
+    privateonly: 'Personal/private chat me use kr akal mand insan*, huehue <3',
+    botonly: 'Only owner *Prabhat* can execute it via main heroku or replit server',
+    waiting: 'Wait kar rha hun darling.....',
+    nolink: 'bhai/bhen/aunty/chachi link attach kardo apki mahan kripa hogi',
+    error: 'Error hai yar recheck kar le',
+    banned: 'Apko ban kardia gaya hai for some reasons for using the bot commands contact the bot and script owner Prabhat',
     bangc: 'This Group is *Banned* from using Commands!',
-    nonsfw: 'Dont be a pervert Baka! This is not a NSFW enabled group!'
+    nonsfw: 'O bhai is group ko NSFW enable krle phle nahi hai'
     
 }
 
